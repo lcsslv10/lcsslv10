@@ -9,4 +9,4 @@
   - **Dominion IHM** (`lcsslv10/Dominion-IHM`) : interface JavaFX / FXML synchronisée sur l'état du jeu
   - **Homelab** (`lcsslv10/homelab`) : reconnaissance, exploitation contrôlée et correction en environnement isolé
 
-- **Portfolio** : `https://lcsslv10.github.io/silva-lucas.github.io/`[cite: 7, 8]
+- **Portfolio** : `https://lcsslv10.github.io/silva-lucas.github.io/`
